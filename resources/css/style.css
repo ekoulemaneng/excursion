@@ -1,9 +1,6 @@
 body {
     background-color: hsl(0, 0%, 0%);
     text-align: center;
-}
-
-h1, h2, p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -31,6 +28,12 @@ p {
     color: gray;
 }
 
-.right {
+footer {
     text-align: right;
+    color: grey;
+    margin-top: 30px;
+}
+
+div {
+    margin: 10px 0;
 }
